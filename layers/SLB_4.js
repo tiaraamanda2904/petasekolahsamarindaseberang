@@ -1,0 +1,1 @@
+var json_SLB_4 = {"type":"FeatureCollection","name":"SLB_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"SLB C-D Untung Tuah","Latitude":-0.5357,"Longitude":117.12249},"geometry":{"type":"Point","coordinates":[117.1224924,-0.5356972]}}]}
